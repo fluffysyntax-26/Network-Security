@@ -1,3 +1,7 @@
 nsenv
 .vscode
 .env
+__pycache__
+mongo_connection.py 
+.DS_Store
+logs
